@@ -45,7 +45,7 @@ Overfitting was evaluated by comparing cross-validation and final model scores.
 - `ML Assignment.ipynb`: Jupyter notebook containing all code and outputs
 - `learning_data.xlsx`: Dataset used
 - `README.md`: Project summary
-- `ML_Assignment_Overleaf_Report.tex`: PDF report source for Overleaf
+- `Report & Submission.pdf` Pdf containing report and summary of assignment
 
 ## 📝 Conclusion
 
